@@ -4,9 +4,7 @@
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+3. [FAQs](#faqs)
 ### General Info
 ***
 This code convert a decimal number to binary number and indicate if the value is positive or negative. If you want to try it without downloading it and in a simple way you can use this link to run it in an online compiler https://onlinegdb.com/Cupn1E6ui
